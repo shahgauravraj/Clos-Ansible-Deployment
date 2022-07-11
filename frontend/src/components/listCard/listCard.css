@@ -1,0 +1,14 @@
+.buttonContainer {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    background-color: #6767c9;
+    width: 275px;
+}
+
+.btn:hover {
+    background-color: #3f3fa5;
+}
